@@ -1,4 +1,4 @@
 # Python-First
-"Primeiro Miniprojeto" utilizando Programação Orientada a Objetos (POO)
+Primeiro treinamento utilizando Programação Orientada a Objetos (POO)
 
 Atualizações Em-breve
